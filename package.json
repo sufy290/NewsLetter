@@ -1,7 +1,7 @@
 {
   "name": "newsletter",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is newsletter subscription form",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,6 @@
     "heroku": "^7.59.0",
     "nodemon": "^2.0.13",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {}
 }
